@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 # Awesome cvc5
 
 Move between an SMT-LIB problem and an API example while keeping the logic and expected result visible.
